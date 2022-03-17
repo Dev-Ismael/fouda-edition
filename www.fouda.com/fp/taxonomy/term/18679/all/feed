@@ -1,0 +1,587 @@
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.fouda.com/fp/taxonomy/term/18679/all?sort_by=uc_product_image_fid&amp;sort_order=DESC" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Perfumes</title>
+    <link>https://www.fouda.com/fp/taxonomy/term/18679/all?sort_by=uc_product_image_fid&amp;sort_order=DESC</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.fouda.com/fp/taxonomy/term/18679/all/feed" rel="self" type="application/rss+xml" />
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>PACO RABANNE LADY MILLION E.D.P.80-ML</title>
+    <link>https://www.fouda.com/node/425798</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/12/product/ESL_2369.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-f4a37f1039ab91df693cd5ee850deec7 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425798&quot;&gt;PACO RABANNE LADY MILLION E.D.P.80-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425798 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>PINK SUGAR SPARKS EAU DE TOILETTE 50 ML</title>
+    <link>https://www.fouda.com/pink-sugar-sparks-eau-de-toilette-50-ml</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/05/product/ESL_2361.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-e691c7de6e9345b0c99cedd07106fbd9 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/pink-sugar-sparks-eau-de-toilette-50-ml&quot;&gt;PINK SUGAR SPARKS EAU DE TOILETTE 50 ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 29 Apr 2019 12:55:36 +0000</pubDate>
+ <dc:creator>islamfouad</dc:creator>
+ <guid isPermaLink="false">431265 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>FARMASI GHERRY ALMOND BODY SPLASH 200-ML</title>
+    <link>https://www.fouda.com/accessory/farmasi-gherry-almond-body-splash-200-ml</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/428272.jpg&quot; width=&quot;1000&quot; height=&quot;1000&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-4eb03890ab5127bc185fd9c30535e67c view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/farmasi-gherry-almond-body-splash-200-ml&quot;&gt;FARMASI GHERRY ALMOND BODY SPLASH 200-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:06:17 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">428272 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>BINBON VIKTOR &amp;ROLF 90ML</title>
+    <link>https://www.fouda.com/node/428731</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/428731.jpg&quot; width=&quot;1000&quot; height=&quot;1000&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-685120dbb13cfd82ab57a99203b3b238 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/428731&quot;&gt;BINBON VIKTOR &amp;amp;ROLF 90ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:06:17 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">428731 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>CHAMP BODY SPRAY HERO FOR MEN 236-ML</title>
+    <link>https://www.fouda.com/accessory/champ-body-spray-hero-men-236-ml</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/05/14/product/421556.jpg&quot; width=&quot;1120&quot; height=&quot;1500&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-602372972bd03a9e43a8a535b7c1b42c view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/champ-body-spray-hero-men-236-ml&quot;&gt;CHAMP BODY SPRAY HERO FOR MEN 236-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 14 May 2018 15:08:20 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421556 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>MALIZIA BON BON PRIMOBACIO E.D.T.50-ML</title>
+    <link>https://www.fouda.com/accessory/malizia-bon-bon-primobacio-edt50-ml</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/06/03/product/422824.jpg&quot; width=&quot;970&quot; height=&quot;970&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-8946fee78a6cbf33ed5fc4f5e8cb8dfc view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/malizia-bon-bon-primobacio-edt50-ml&quot;&gt;MALIZIA BON BON PRIMOBACIO E.D.T.50-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 03 Jun 2018 11:35:15 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">422824 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>MALIZIA BON BON HAPPINESS E.D.T.50-ML</title>
+    <link>https://www.fouda.com/accessory/malizia-bon-bon-happiness-edt50-ml</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/06/03/product/422826.jpg&quot; width=&quot;1024&quot; height=&quot;1024&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-2c75058ac749edf54f3909b484490bc4 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/malizia-bon-bon-happiness-edt50-ml&quot;&gt;MALIZIA BON BON HAPPINESS E.D.T.50-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 03 Jun 2018 11:39:30 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">422826 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ADIDAS EAU DE TOILETTE TEAM FORCE100-ML</title>
+    <link>https://www.fouda.com/node/424837</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/424837.jpg&quot; width=&quot;2500&quot; height=&quot;2500&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-cbe4e2388ad9f0f3f199170ea99c63d8 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/424837&quot;&gt;ADIDAS EAU DE TOILETTE TEAM FORCE100-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:53:44 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">424837 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>FANTASIES BODY SPRAY VANILLA 236-ML</title>
+    <link>https://www.fouda.com/accessory/fantasies-body-spray-vanilla-236-ml</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/426122.png&quot; width=&quot;1000&quot; height=&quot;1000&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-b00857b68d5cefabf5f0da6eef037af6 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/fantasies-body-spray-vanilla-236-ml&quot;&gt;FANTASIES BODY SPRAY VANILLA 236-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">426122 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>BOD BODY SPLASH BLACK 236-ML</title>
+    <link>https://www.fouda.com/accessory/bod-body-splash-black-236-ml</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/426121.jpeg&quot; width=&quot;2365&quot; height=&quot;2365&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-814d5352cdc17cad5f6f2891a2d45821 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/bod-body-splash-black-236-ml&quot;&gt;BOD BODY SPLASH BLACK 236-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">426121 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ADIDAS EAU DE TOILETTE VICTORY LEAGUE 2006 100 ML</title>
+    <link>https://www.fouda.com/node/425325</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/425325.jpg&quot; width=&quot;900&quot; height=&quot;900&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-f40f2db8d5786dde4e36cd4989e8b3c4 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425325&quot;&gt;ADIDAS EAU DE TOILETTE VICTORY LEAGUE 2006 100 ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425325 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>CAROLINA HER. 212 SEXY E.D.T FOR MEN 100-ML</title>
+    <link>https://www.fouda.com/node/425281</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/425281.jpeg&quot; width=&quot;905&quot; height=&quot;905&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-f4af4367f791573577114ff6d78a50f5 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425281&quot;&gt;CAROLINA HER. 212 SEXY E.D.T FOR MEN 100-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425281 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ADIDAS DYNAMIC PLUS E.D.T.100-ML</title>
+    <link>https://www.fouda.com/node/425280</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/425280.jpg&quot; width=&quot;1500&quot; height=&quot;1500&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-3dfb64f9b8879549ccb3003beaa5ca34 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425280&quot;&gt;ADIDAS DYNAMIC PLUS E.D.T.100-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425280 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>COLOUR ME EAU DE PERFUM PEARL FOR WOMEN100-ML</title>
+    <link>https://www.fouda.com/node/426741</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/426741.jpg&quot; width=&quot;993&quot; height=&quot;1500&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-3ef63acd530c0e78cfebc5262a0e35a1 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/426741&quot;&gt;COLOUR ME EAU DE PERFUM PEARL FOR WOMEN100-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:00:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">426741 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>COLOUR ME EAU DE PERFUM SILVER FOR MEN 90-ML</title>
+    <link>https://www.fouda.com/node/426739</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/11/21/product/426739.jpg&quot; width=&quot;820&quot; height=&quot;1500&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-fcd85639044d7e5b3b9f3e48cfe94c73 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/426739&quot;&gt;COLOUR ME EAU DE PERFUM SILVER FOR MEN 90-ML&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:00:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">426739 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+  </channel>
+</rss>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+

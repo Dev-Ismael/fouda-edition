@@ -1,0 +1,587 @@
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.fouda.com/fp/taxonomy/term/19111/all?sort_by=uc_product_image_fid&amp;sort_order=DESC" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eye Lashes</title>
+    <link>https://www.fouda.com/fp/taxonomy/term/19111/all?sort_by=uc_product_image_fid&amp;sort_order=DESC</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.fouda.com/fp/taxonomy/term/19111/all/feed" rel="self" type="application/rss+xml" />
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ARDELL EYELASHE   FAUX MINK (57367) </title>
+    <link>https://www.fouda.com/ardell-eyelashe-faux-mink-57367</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/13/product/ESL_2719.png&quot; width=&quot;4536&quot; height=&quot;4536&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-9ef53020d093d99c6c60337b2604ed2c view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/ardell-eyelashe-faux-mink-57367&quot;&gt;ARDELL EYELASHE   FAUX MINK (57367) &lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 31 Mar 2019 12:15:20 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">430519 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE LASH 3D MINK LUXURY (1)</title>
+    <link>https://www.fouda.com/elle-lash-3d-mink-luxury-1</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/12/product/ESL_2714.png&quot; width=&quot;4536&quot; height=&quot;4536&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-c995e7e2fd1351bf6bf0cd65850ed155 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/elle-lash-3d-mink-luxury-1&quot;&gt;ELLE LASH 3D MINK LUXURY (1)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 10 Apr 2019 11:37:39 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">430665 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE LASH 3D MINK LUXURY (8)</title>
+    <link>https://www.fouda.com/elle-lash-3d-mink-luxury-8</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/12/product/ESL_2713.png&quot; width=&quot;4536&quot; height=&quot;4536&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-ca85056c138948b0d27b4a499ee504da view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/elle-lash-3d-mink-luxury-8&quot;&gt;ELLE LASH 3D MINK LUXURY (8)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 10 Apr 2019 11:38:02 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">430672 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE LASH 3D MINK LUXURY (4)</title>
+    <link>https://www.fouda.com/elle-lash-3d-mink-luxury-4</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/12/product/ESL_2712.png&quot; width=&quot;4536&quot; height=&quot;4536&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-75dcbe32ac69c0d52e650497506b52ce view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/elle-lash-3d-mink-luxury-4&quot;&gt;ELLE LASH 3D MINK LUXURY (4)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 10 Apr 2019 11:37:49 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">430668 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE LASH 3D MINK LUXURY (2)</title>
+    <link>https://www.fouda.com/elle-lash-3d-mink-luxury-2</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/12/product/ESL_2711.png&quot; width=&quot;4536&quot; height=&quot;4536&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-c11f0d712a178d999a4d6721c049b2c0 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/elle-lash-3d-mink-luxury-2&quot;&gt;ELLE LASH 3D MINK LUXURY (2)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 10 Apr 2019 11:37:42 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">430666 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES HUMAN HAIR CELIA (747 M)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-human-hair-celia-747-m</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/12/product/ESL_2715.png&quot; width=&quot;4536&quot; height=&quot;4536&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-6c9d80f7159e9d930e1ca6cda1719971 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-human-hair-celia-747-m&quot;&gt;ELLE EYELASHES HUMAN HAIR CELIA (747 M)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 15:40:15 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421753 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES HUMAN HAIR STELLA (008)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-human-hair-stella-008</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_4281_0.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-c1f5dce1206821e4266e588c3441de1a view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-human-hair-stella-008&quot;&gt;ELLE EYELASHES HUMAN HAIR STELLA (008)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 15:50:08 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421763 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES HUMAN HAIR J-LO (747 L)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-human-hair-j-lo-747-l</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_4281.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-052db56badd86edc46f6b4295cbac589 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-human-hair-j-lo-747-l&quot;&gt;ELLE EYELASHES HUMAN HAIR J-LO (747 L)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 15:41:54 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421755 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES NATURAL LASH IT UP (20)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-natural-lash-it-20</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2475.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2497.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-452cc02b25860b26c677f6012b10e757 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-natural-lash-it-20&quot;&gt;ELLE EYELASHES NATURAL LASH IT UP (20)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 16:01:51 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421774 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES NATURAL LASH IT UP (20)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-natural-lash-it-20</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2475.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2497.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-f38f7661a67ecbe6f45d5dfa5ac73f23 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-natural-lash-it-20&quot;&gt;ELLE EYELASHES NATURAL LASH IT UP (20)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 16:01:51 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421774 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES HUMAN HAIR ROSE (18)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-human-hair-rose-18</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2478.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2500.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-831798df988596225becd9b016fe5e41 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-human-hair-rose-18&quot;&gt;ELLE EYELASHES HUMAN HAIR ROSE (18)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 15:46:04 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421759 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES HUMAN HAIR ROSE (18)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-human-hair-rose-18</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2478.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2500.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-eb57dd8bd32d11ae47cfb707bda27220 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-human-hair-rose-18&quot;&gt;ELLE EYELASHES HUMAN HAIR ROSE (18)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 15:46:04 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421759 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES HUMAN HAIR BIRDIE (115)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-human-hair-birdie-115</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2480.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2498.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-b9eb59d15f2ecf372976a3457ea389e2 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-human-hair-birdie-115&quot;&gt;ELLE EYELASHES HUMAN HAIR BIRDIE (115)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 15:39:18 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421752 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES HUMAN HAIR BIRDIE (115)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-human-hair-birdie-115</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2480.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2498.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-b793a4eafed312bf7ca8302b55f475c4 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-human-hair-birdie-115&quot;&gt;ELLE EYELASHES HUMAN HAIR BIRDIE (115)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 15:39:18 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421752 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ELLE EYELASHES 3D NATURAL KATTY (021)</title>
+    <link>https://www.fouda.com/accessory/elle-eyelashes-3d-natural-katty-021</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2476.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/11/product/ESL_2495.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-e44822b4d86473ff889f5ec9c458e221 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/elle-eyelashes-3d-natural-katty-021&quot;&gt;ELLE EYELASHES 3D NATURAL KATTY (021)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 May 2018 14:25:50 +0000</pubDate>
+ <dc:creator>Mr.Ali</dc:creator>
+ <guid isPermaLink="false">421744 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+  </channel>
+</rss>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+

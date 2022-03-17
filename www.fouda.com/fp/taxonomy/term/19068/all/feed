@@ -1,0 +1,587 @@
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.fouda.com/fp/taxonomy/term/19068/all?sort_by=uc_product_image_fid&amp;sort_order=DESC" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>COMPRESSES</title>
+    <link>https://www.fouda.com/fp/taxonomy/term/19068/all?sort_by=uc_product_image_fid&amp;sort_order=DESC</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.fouda.com/fp/taxonomy/term/19068/all/feed" rel="self" type="application/rss+xml" />
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ICE HEAT MICRO PATCH 5 Pieces</title>
+    <link>https://www.fouda.com/accessory/ice-heat-micro-patch-5-pieces</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/05/21/product/422047.jpeg&quot; width=&quot;1190&quot; height=&quot;1974&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-c24537ae2c6f72ffd8c4c922b0182d1d view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/ice-heat-micro-patch-5-pieces&quot;&gt;ICE HEAT MICRO PATCH 5 Pieces&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 21 May 2018 12:30:27 +0000</pubDate>
+ <dc:creator>islamfouad</dc:creator>
+ <guid isPermaLink="false">422047 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>LARGE ICE BAG </title>
+    <link>https://www.fouda.com/node/429207</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-9cabdf1982bac6119cb2e126137592d2 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/429207&quot;&gt;LARGE ICE BAG &lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:07:20 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">429207 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>SANITAYAKI CAPSICUM PLASTER </title>
+    <link>https://www.fouda.com/node/429578</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-a51ce18ab3fa7d782729ac05655ba45f view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/429578&quot;&gt;SANITAYAKI CAPSICUM PLASTER &lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:07:20 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">429578 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>BM Back Pain PLASTER 24 Pieces </title>
+    <link>https://www.fouda.com/accessory/bm-back-pain-plaster-24-pieces</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-bd00757424bb555b3778fc0505ccdbd3 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/bm-back-pain-plaster-24-pieces&quot;&gt;BM Back Pain PLASTER 24 Pieces &lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:07:20 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">429587 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>MERO COOLING GEL SHEET</title>
+    <link>https://www.fouda.com/node/428434</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-3d652a078e22f78425f9992eb7570137 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/428434&quot;&gt;MERO COOLING GEL SHEET&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:06:17 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">428434 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>FAST COOL GEL PATCHE</title>
+    <link>https://www.fouda.com/node/428801</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-924011fae59431de5f211e641d3aac23 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/428801&quot;&gt;FAST COOL GEL PATCHE&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:06:17 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">428801 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>RHUMA TIGER FLEX NEW PLASTER</title>
+    <link>https://www.fouda.com/node/428966</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-429f4524d697c174528a27c56fd59965 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/428966&quot;&gt;RHUMA TIGER FLEX NEW PLASTER&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:06:17 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">428966 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>MEDIUM ICE BAG</title>
+    <link>https://www.fouda.com/node/428980</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-45cf091d06e9add6766931a80d8e4c9e view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/428980&quot;&gt;MEDIUM ICE BAG&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:06:17 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">428980 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>TEMPO COOL GEL SHEETS 4 Pieces</title>
+    <link>https://www.fouda.com/node/427608</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-8a20d110d05cae4a0c9b1a9dad962c3c view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/427608&quot;&gt;TEMPO COOL GEL SHEETS 4 Pieces&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:05:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">427608 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>SMALL ICE BAG</title>
+    <link>https://www.fouda.com/node/427757</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-fcafb6cfce8a0852404061a939cb2d1a view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/427757&quot;&gt;SMALL ICE BAG&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:05:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">427757 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>HOT WATER BAG PVC</title>
+    <link>https://www.fouda.com/node/427120</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-562ec116f9f0a38263e589daf73dfe92 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/427120&quot;&gt;HOT WATER BAG PVC&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:00:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">427120 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>TEMPO FREE COOLING GEL SHEETS 4 Pieces</title>
+    <link>https://www.fouda.com/node/425257</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-d8fadb1075e5d058b1097f7df8e1b5cf view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425257&quot;&gt;TEMPO FREE COOLING GEL SHEETS 4 Pieces&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425257 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Kodomo Cooling Adesive Patches 2 Patches</title>
+    <link>https://www.fouda.com/node/425299</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-e5cffa0efcdde786d6a669b29f4dcebb view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425299&quot;&gt;Kodomo Cooling Adesive Patches 2 Patches&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425299 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>HOSPATEK HOT &amp; COLD PACK</title>
+    <link>https://www.fouda.com/node/425375</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-38e26406c541de1fc976ddda06685d92 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425375&quot;&gt;HOSPATEK HOT &amp;amp; COLD PACK&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425375 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>First Aid Kit Bag</title>
+    <link>https://www.fouda.com/node/425399</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-89f47f2d4a94fb47d36e8548d65a054d view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425399&quot;&gt;First Aid Kit Bag&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425399 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+  </channel>
+</rss>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+

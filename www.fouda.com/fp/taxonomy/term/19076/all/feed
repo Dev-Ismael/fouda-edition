@@ -1,0 +1,587 @@
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.fouda.com/fp/taxonomy/term/19076/all?sort_by=uc_product_image_fid&amp;sort_order=DESC" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>MOVEMENT AID</title>
+    <link>https://www.fouda.com/fp/taxonomy/term/19076/all?sort_by=uc_product_image_fid&amp;sort_order=DESC</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.fouda.com/fp/taxonomy/term/19076/all/feed" rel="self" type="application/rss+xml" />
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>TRUSTY CANE</title>
+    <link>https://www.fouda.com/accessory/trusty-cane</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/05/22/product/422141.jpg&quot; width=&quot;1000&quot; height=&quot;1000&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-e820a33e8f0a914661a3cc47a0d193a8 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/trusty-cane&quot;&gt;TRUSTY CANE&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 22 May 2018 11:15:38 +0000</pubDate>
+ <dc:creator>islamfouad</dc:creator>
+ <guid isPermaLink="false">422141 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Three-legged crutch </title>
+    <link>https://www.fouda.com/accessory/three-legged-crutch</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/05/22/product/422152.jpg&quot; width=&quot;1140&quot; height=&quot;1079&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-24b73b7b461e82408c334c7c3466718c view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/three-legged-crutch&quot;&gt;Three-legged crutch &lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 22 May 2018 11:32:53 +0000</pubDate>
+ <dc:creator>islamfouad</dc:creator>
+ <guid isPermaLink="false">422152 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Foldable walker</title>
+    <link>https://www.fouda.com/accessory/foldable-walker</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/05/22/product/422190.jpeg&quot; width=&quot;2000&quot; height=&quot;2000&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-7a82ca12c5565ce4aba9b4c8cfa79239 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/foldable-walker&quot;&gt;Foldable walker&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 22 May 2018 12:49:59 +0000</pubDate>
+ <dc:creator>islamfouad</dc:creator>
+ <guid isPermaLink="false">422190 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>WHEEL CHAIR</title>
+    <link>https://www.fouda.com/accessory/wheel-chair</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/05/22/product/422195.jpg&quot; width=&quot;2848&quot; height=&quot;2848&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-c8ad1e01e082bf91c1962b2f5267c8a5 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/wheel-chair&quot;&gt;WHEEL CHAIR&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 22 May 2018 12:57:47 +0000</pubDate>
+ <dc:creator>islamfouad</dc:creator>
+ <guid isPermaLink="false">422195 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Trusty Cane with Pivoting Base and LED Lights</title>
+    <link>https://www.fouda.com/accessory/trusty-cane-pivoting-base-and-led-lights</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2018/10/03/product/423540.jpg&quot; width=&quot;1500&quot; height=&quot;705&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-92fbbd80ae3fd41e422b397eadab9b36 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/trusty-cane-pivoting-base-and-led-lights&quot;&gt;Trusty Cane with Pivoting Base and LED Lights&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 03 Oct 2018 09:53:37 +0000</pubDate>
+ <dc:creator>islamfouad</dc:creator>
+ <guid isPermaLink="false">423540 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Fixed Wrist Crutche</title>
+    <link>https://www.fouda.com/node/428907</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-3b7e73682f88c302cb71520cc3e44be6 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/428907&quot;&gt;Fixed Wrist Crutche&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:06:17 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">428907 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Crutches armpit code/ 2002</title>
+    <link>https://www.fouda.com/accessory/crutches-armpit-code-2002</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-4aafa9cb08e7d2f4bd255470093fcb3f view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/crutches-armpit-code-2002&quot;&gt;Crutches armpit code/ 2002&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:05:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">427417 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Crutch Stick Open Elbow Span 2041</title>
+    <link>https://www.fouda.com/accessory/crutch-stick-open-elbow-span-2041</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-b69cd760bdf526f5224b857fe9d3642e view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/crutch-stick-open-elbow-span-2041&quot;&gt;Crutch Stick Open Elbow Span 2041&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:05:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">427426 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Crutch Stick Open Elbow Span 2040</title>
+    <link>https://www.fouda.com/accessory/crutch-stick-open-elbow-span-2040</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-83da2441669132ee19c488912a1258bc view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/crutch-stick-open-elbow-span-2040&quot;&gt;Crutch Stick Open Elbow Span 2040&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:00:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">426405 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Normal Crutches armpit</title>
+    <link>https://www.fouda.com/accessory/normal-crutches-armpit</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-07b88f647eb31983adc0ec9cd71637b9 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/normal-crutches-armpit&quot;&gt;Normal Crutches armpit&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:00:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">426422 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Stick crutche chair Code/ 2400</title>
+    <link>https://www.fouda.com/accessory/stick-crutche-chair-code-2400</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-fac10e220fbbf854160c7b30acd11473 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/stick-crutche-chair-code-2400&quot;&gt;Stick crutche chair Code/ 2400&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:00:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">426436 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>مشايه مفصليه برونزى</title>
+    <link>https://www.fouda.com/accessory/%D9%85%D8%B4%D8%A7%D9%8A%D9%87-%D9%85%D9%81%D8%B5%D9%84%D9%8A%D9%87-%D8%A8%D8%B1%D9%88%D9%86%D8%B2%D9%89</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-fcad1a15d6531ea83fccd385fadd53ed view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/%D9%85%D8%B4%D8%A7%D9%8A%D9%87-%D9%85%D9%81%D8%B5%D9%84%D9%8A%D9%87-%D8%A8%D8%B1%D9%88%D9%86%D8%B2%D9%89&quot;&gt;مشايه مفصليه برونزى&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:00:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">426622 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Stick Crutche Metal Chair</title>
+    <link>https://www.fouda.com/accessory/stick-crutche-metal-chair</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-792279c9302a2a1dbae29dce37eba6b3 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/stick-crutche-metal-chair&quot;&gt;Stick Crutche Metal Chair&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:00:18 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">427152 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Medicine Crusher</title>
+    <link>https://www.fouda.com/node/425286</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-550b4826df58975a2e48e8b738c64643 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425286&quot;&gt;Medicine Crusher&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425286 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Stick crutche chair Chine</title>
+    <link>https://www.fouda.com/accessory/stick-crutche-chair-chine</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/default_images/no-image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-e9ac203242ef180d16812c7ea034ba33 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/stick-crutche-chair-chine&quot;&gt;Stick crutche chair Chine&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425623 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+  </channel>
+</rss>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+

@@ -1,0 +1,17 @@
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.fouda.com/fp/taxonomy/term/19075/all?sort_by=uc_product_image_fid&amp;sort_order=DESC" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MEDICAL SOAP</title>
+    <link>https://www.fouda.com/fp/taxonomy/term/19075/all?sort_by=uc_product_image_fid&amp;sort_order=DESC</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.fouda.com/fp/taxonomy/term/19075/all/feed" rel="self" type="application/rss+xml" />
+      </channel>
+</rss>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+

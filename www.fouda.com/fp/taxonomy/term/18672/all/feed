@@ -1,0 +1,587 @@
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.fouda.com/fp/taxonomy/term/18672/all?sort_by=uc_product_image_fid&amp;sort_order=DESC" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>vitamins &amp;amp; supplements</title>
+    <link>https://www.fouda.com/fp/taxonomy/term/18672/all?sort_by=uc_product_image_fid&amp;sort_order=DESC</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.fouda.com/fp/taxonomy/term/18672/all/feed" rel="self" type="application/rss+xml" />
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>SWEETAL 300 Tablet</title>
+    <link>https://www.fouda.com/node/428236</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/18/product/ESL_4775.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-30e16936c76555813a68fbe4e8703c82 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/428236&quot;&gt;SWEETAL 300 Tablet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:06:17 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">428236 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>SWEETAL 50 Tablet</title>
+    <link>https://www.fouda.com/node/428589</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/18/product/ESL_4776.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-097eeecf9e41fa924c13f5d7657a0090 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/428589&quot;&gt;SWEETAL 50 Tablet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:06:17 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">428589 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Royal provite 20 ampoules</title>
+    <link>https://www.fouda.com/medicine/royal-provite-20-ampoules</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/18/product/ESL_4778.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-22053e8084730da0155e8671ba4b162d view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/medicine/royal-provite-20-ampoules&quot;&gt;Royal provite 20 ampoules&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 25 Feb 2018 12:24:15 +0000</pubDate>
+ <dc:creator>Dr.Ahmed</dc:creator>
+ <guid isPermaLink="false">417744 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Osteorine 50 mg 15 capsule</title>
+    <link>https://www.fouda.com/medicine/osteorine-50-mg-15-capsule</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4513.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4514.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-ac11ac97cb62ff358b6221f600a42c57 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/medicine/osteorine-50-mg-15-capsule&quot;&gt;Osteorine 50 mg 15 capsule&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 22 Feb 2018 15:14:57 +0000</pubDate>
+ <dc:creator>Dr.Ahmed</dc:creator>
+ <guid isPermaLink="false">417597 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Osteorine 50 mg 15 capsule</title>
+    <link>https://www.fouda.com/medicine/osteorine-50-mg-15-capsule</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4513.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4514.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-d170e15835fa7247df1130a3cb24d7d8 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/medicine/osteorine-50-mg-15-capsule&quot;&gt;Osteorine 50 mg 15 capsule&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 22 Feb 2018 15:14:57 +0000</pubDate>
+ <dc:creator>Dr.Ahmed</dc:creator>
+ <guid isPermaLink="false">417597 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Panax Life 10 Capsule 1 strip</title>
+    <link>https://www.fouda.com/medicine/panax-life-10-capsule-1-strip</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4487.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4488.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-b2b82bc1e00b3916d92f15b24c5b98be view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/medicine/panax-life-10-capsule-1-strip&quot;&gt;Panax Life 10 Capsule 1 strip&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 05 Nov 2012 07:00:00 +0000</pubDate>
+ <dc:creator>r00t</dc:creator>
+ <guid isPermaLink="false">394274 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Panax Life 10 Capsule 1 strip</title>
+    <link>https://www.fouda.com/medicine/panax-life-10-capsule-1-strip</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4487.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4488.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-cead699de3dca40e42f344416d6b8e6d view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/medicine/panax-life-10-capsule-1-strip&quot;&gt;Panax Life 10 Capsule 1 strip&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 05 Nov 2012 07:00:00 +0000</pubDate>
+ <dc:creator>r00t</dc:creator>
+ <guid isPermaLink="false">394274 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>OCTATRON ANTIOXIDANT 20 Capsule</title>
+    <link>https://www.fouda.com/accessory/octatron-antioxidant-20-capsule</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4473.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4474.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-8345ed98b77283a62791b8a122840484 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/octatron-antioxidant-20-capsule&quot;&gt;OCTATRON ANTIOXIDANT 20 Capsule&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:53:44 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">424513 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>OCTATRON ANTIOXIDANT 20 Capsule</title>
+    <link>https://www.fouda.com/accessory/octatron-antioxidant-20-capsule</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4473.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4474.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-7cbb6c57283c6d15c49ba9b71a123975 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/octatron-antioxidant-20-capsule&quot;&gt;OCTATRON ANTIOXIDANT 20 Capsule&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:53:44 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">424513 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>OMEGA-3 PLUS 30 Capsule</title>
+    <link>https://www.fouda.com/accessory/omega-3-plus-30-capsule</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4468.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4469.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-e4910d460000bcbaf05167d917ff7eff view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/omega-3-plus-30-capsule&quot;&gt;OMEGA-3 PLUS 30 Capsule&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 29 May 2018 13:37:04 +0000</pubDate>
+ <dc:creator>Dr.Ahmed</dc:creator>
+ <guid isPermaLink="false">422618 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>OMEGA-3 PLUS 30 Capsule</title>
+    <link>https://www.fouda.com/accessory/omega-3-plus-30-capsule</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4468.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4469.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-418680d927c1ea634577cc26b2c3a3b4 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/accessory/omega-3-plus-30-capsule&quot;&gt;OMEGA-3 PLUS 30 Capsule&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 29 May 2018 13:37:04 +0000</pubDate>
+ <dc:creator>Dr.Ahmed</dc:creator>
+ <guid isPermaLink="false">422618 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ORLISTAT 120 MG 30 Capsule</title>
+    <link>https://www.fouda.com/node/425553</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4460.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4461.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-91ed9c9ea8a493ed3c72bd2efe8991e3 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425553&quot;&gt;ORLISTAT 120 MG 30 Capsule&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425553 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>ORLISTAT 120 MG 30 Capsule</title>
+    <link>https://www.fouda.com/node/425553</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4460.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4461.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-d8d740a112adb9d5943c5a38c221485e view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/425553&quot;&gt;ORLISTAT 120 MG 30 Capsule&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 18:59:01 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">425553 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>Ferrobella 350 g bottle</title>
+    <link>https://www.fouda.com/medicine/ferrobella-350-g-bottle</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/15/product/ESL_4290.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-7680eaf6371bc01f0f38da806a679a63 view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/medicine/ferrobella-350-g-bottle&quot;&gt;Ferrobella 350 g bottle&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 20 Feb 2018 11:45:18 +0000</pubDate>
+ <dc:creator>Dr.Ahmed</dc:creator>
+ <guid isPermaLink="false">416943 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_row_rss') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+  <item>
+    <title>OPTAMINESS 100 Tablet</title>
+    <link>https://www.fouda.com/node/430136</link>
+    <description>&lt;div class=&quot;field field-name-uc-product-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/14/product/ESL_4451.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img class=&quot;&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.fouda.com/sites/default/files/2019/05/14/product/ESL_4452.png&quot; width=&quot;1361&quot; height=&quot;1361&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-product-view-as-slick field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 class=&quot;block-title&quot;&gt;&lt;/h2&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- CALL: theme(&#039;views_view&#039;) --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--ds-views--34.tpl.php
+   * ds-1col--ds-views-ds-views-default.tpl.php
+   * ds-1col--ds-views-ds-views.tpl.php
+   * ds-1col--ds-views-default.tpl.php
+   * ds-1col--ds-views.tpl.php
+   x ds-1col.tpl.php
+   * views-view.tpl.php
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+&lt;div  class=&quot;ds-1col view view-hook-product-view view-id-hook_product_view view-display-id-block_4 view-dom-id-074e6530fa3deebd79cebdaad377402c view-mode-default clearfix&quot;&gt;
+
+  
+  &lt;/div&gt;
+
+
+&lt;!-- END OUTPUT from &#039;sites/all/modules/contrib/ds/layouts/ds_1col/ds-1col.tpl.php&#039; --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-title field-type-ds field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/node/430136&quot;&gt;OPTAMINESS 100 Tablet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Nov 2018 19:08:25 +0000</pubDate>
+ <dc:creator>emadouf</dc:creator>
+ <guid isPermaLink="false">430136 at https://www.fouda.com</guid>
+  </item>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-row-rss.tpl.php' -->
+
+  </channel>
+</rss>
+
+<!-- END OUTPUT from 'sites/all/modules/contrib/views/theme/views-view-rss.tpl.php' -->
+

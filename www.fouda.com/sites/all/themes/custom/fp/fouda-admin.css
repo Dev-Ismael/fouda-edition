@@ -1,0 +1,16 @@
+/* #edit-panes-payment-payment-method #edit-panes-payment-payment-method-payment-ubercart-3{
+    display: none;
+}
+
+label[for="edit-panes-payment-payment-method-payment-ubercart-3"]
+{
+    display:none;
+} */
+
+/* #edit-panes-payment-payment-method .form-item-panes-payment-payment-method{
+    display: none;
+}
+#edit-panes-payment-payment-method .form-item-panes-payment-payment-method:first-child{
+    display: block;
+}
+  */
